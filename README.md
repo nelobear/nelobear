@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nelobear
 - 👀 I’m interested in ...Programming lol
 - 🌱 I’m currently learning ...Pascal,Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...E-mail nicolas.bockenau@gmail.com
 
 <!---
